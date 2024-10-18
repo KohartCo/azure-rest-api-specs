@@ -1,0 +1,17 @@
+name: azure-rest-api-specs
+id: ari:cloud:compass:4ae98d0c-08f4-426b-ab18-3581a764ec4d:component/186ee38f-818e-4f8a-a457-99b094f765ca/5304d684-b09b-46ce-9338-2f9726cb0e7d
+description: The source for REST API specifications for Microsoft Azure.
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/KohartCo/azure-rest-api-specs
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
