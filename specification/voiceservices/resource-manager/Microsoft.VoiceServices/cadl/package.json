@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@azure-tools/cadl-autorest": "^0.24.0",
-    "@azure-tools/cadl-azure-core": "^0.24.0",
+    "@azure-tools/cadl-azure-core": "^0.26.0",
     "@azure-tools/cadl-azure-resource-manager": "^0.24.0",
     "@azure-tools/cadl-providerhub": "^0.24.0",
     "@azure-tools/cadl-providerhub-controller": "^0.24.0",
